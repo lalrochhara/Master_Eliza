@@ -64,13 +64,13 @@ All commands can either be used with / or !.
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](https://t.me/InukaASiTH) to take me to my place now, and \
+Need a lot of work for [my creator](https://t.me/IsiRAPiumaTH) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit www.infinityje.com, Thank you 😁""",
+If you really are interested in donating, please donate to my paypal -paypal.me/isirapiumath, Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",
