@@ -1,4 +1,4 @@
-# SL Eliza 
+# SL Eliza Bot
 All Errors are now fixed and the bot is working fine..
 
 ![Daisy](https://telegra.ph/file/9c2a6829253a1dccd97b9.png)
