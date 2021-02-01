@@ -36,19 +36,20 @@ A Modular Group management Bot on Sinhala
 5) Paste the Api token copied at token space
 
 ```
-![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
+![Token](https://telegra.ph/file/ffb88846701d7b7b37f94.png)
 ```
-4) Enter url of the app ass https://#Appneme.herokuapp.com
+6) Enter url of the app ass https://#Appneme.herokuapp.com
 
 ```
-![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
+![url](https://telegra.ph/file/7518fd4538f594797b883.jpg)
 ```
-5)Then Deploy
+7)Get App Id and Hash on my.telegram.org
+8)Then Deploy
 
-6) After Deploy over click manage app
+9) After Deploy over click manage app
 ```
 ```
-7) Goto Resources and Turn Worker Emilia to on (by clicking edit)
+10) Goto Resources and Turn Worker Emilia to on (by clicking edit)
 
 ```
 ![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
