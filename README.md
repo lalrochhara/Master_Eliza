@@ -1,11 +1,13 @@
-# The Daisy Robot
+# SL Eliza obot
 All Errors are now fixed and the bot is working fine..
 
-![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
+![Daisy](https://telegra.ph/file/9c2a6829253a1dccd97b9.png)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/masterisira
+/
+Master_Eliza)
 
 A Modular Group management Bot on Sinhala
 
