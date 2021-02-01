@@ -28,12 +28,12 @@ A Modular Group management Bot on Sinhala
 ```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/masterisira/Master_Eliza)
 ```
-3) Give an app name
+4) Give an app name
 
 ```
-![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
+![Appname](https://telegra.ph/file/e564d41d87fedec964a96.png)
 ```
-3) Paste the Api token copied at token space
+5) Paste the Api token copied at token space
 
 ```
 ![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
