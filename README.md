@@ -52,11 +52,11 @@ A Modular Group management Bot on Sinhala
 10) Goto Resources and Turn Worker Emilia to on (by clicking edit)
 
 ```
-![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
+![worker](https://telegra.ph/file/2ea61bed88cb99c507ea6.jpg)
 ```
-8) Goto Logs and check for the errors
+11) Goto Logs and check for the errors
 ```
-![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
+![logs](https://telegra.ph/file/0a889a75751dad45833f9.jpg)
 ```
 
 
