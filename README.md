@@ -21,12 +21,12 @@ A Modular Group management Bot on Sinhala
 2) Create a new bot from @botfather and copy its api token
 
 ```
-![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
+![api](https://telegra.ph/file/38d926dbd695f857efde6.png)
 
 ```
 3) Click Deploy
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/masterisira/Master_Eliza)
 ```
 3) Give an app name
 
