@@ -41,7 +41,7 @@ You can find the list of available commands with /help.
 
 If you want to start Chat with me, send 👉 /addchat 👈 and reply to my message to start chatting.
 
-[- The Source code is available on Github -](https://github.com/masterisira/Master_Eliza)
+[- The Source codes are available on Github -](https://github.com/masterisira/Master_Eliza)
 ©2020 by [ŞŁ PĆ ĢÀMĘŠ®](https://t.me/slpcgames). 
 """,
 	"help_text": """
