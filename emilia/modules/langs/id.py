@@ -35,7 +35,7 @@ Available commands are:
 	"start_text": """
 Hi {}, my name is {}! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Eliza Project  written by [Isira Piumath](https://slcreedtest.000webhostapp.com/)
+I am a group manager bot created by [my master](tg://user?id={}) based on [Eliza](t.me/SLEliza_bot) Project  written by [Isira Piumath](https://slcreedtest.000webhostapp.com/)
 
 You can find the list of available commands with /help.
 
