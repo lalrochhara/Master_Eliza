@@ -5,7 +5,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/masterisira/Master_Eliza)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lalrochhara/Master_Eliza)
 
 A Modular Group management Bot on Sinhala
 
